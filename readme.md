@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-nt/)](https://www.linkedin.com/in/jeferson-nt/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefteixeira.2490@gmail.com)](mailto:jefteixeira.2490@gmail.com)
 
-# Português
 ### Olá! Bem vindo ao meu Github
 
 Meu nome é Jeferson Teixeira e tenho 31 anos. Possuo formação em Técnico em Eletrônica, onde adquiri amplo conhecimento nessa área com mais de 12 anos de carreira. Atualmente, estou graduando em Análise e Desenvolvimento de Sistema, visto que, busco uma colocação profissional na área de desenvolvimento Front-End. 
@@ -16,5 +15,4 @@ Meu nome é Jeferson Teixeira e tenho 31 anos. Possuo formação em Técnico em 
 
 <div>
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=jefteixeira&theme=light&show_icons=true" />
-  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jefteixeira&layout=compact&theme=light' />
 </div>
