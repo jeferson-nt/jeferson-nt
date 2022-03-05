@@ -1,7 +1,7 @@
 
 # Jeferson Teixeira 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jefteixeira)](https://github.com/jefteixeira)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jeferson-nt)](https://github.com/jeferson-nt)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-nt/)](https://www.linkedin.com/in/jeferson-nt/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefteixeira.2490@gmail.com)](mailto:jefteixeira.2490@gmail.com)
 
@@ -14,5 +14,5 @@ Meu nome é Jeferson Teixeira e tenho 31 anos. Possuo formação em Técnico em 
 - 📖 Tenho interesse em React, React Native e Angular
 
 <div>
-  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=jefteixeira&theme=light&show_icons=true" />
+  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=jeferson-nt&theme=dark&show_icons=true" />
 </div>
