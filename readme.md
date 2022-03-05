@@ -1,15 +1,14 @@
 
-# Gustavo Teixeira 
+# Jeferson Teixeira 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabriel-nt)](https://github.com/gustavo-nt)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-nt/)](https://www.linkedin.com/in/gustavo-nt/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielnt.dev@gmail.com)](mailto:gustavont.dev@gmail.com)
-[![Rocketseat Badge](https://img.shields.io/badge/Rocketseat-8257e5?style=flat-square&link=https://app.rocketseat.com.br/me/gabriel-nt)](https://app.rocketseat.com.br/me/gustavo-nt)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jefteixeira)](https://github.com/jefteixeira)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-nt/)](https://www.linkedin.com/in/jeferson-nt/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefteixeira.2490@gmail.com)](mailto:jefteixeira.2490@gmail.com)
 
 # Português
 ### Olá! Bem vindo ao meu Github
 
-Meu nome é Jeferson Teixeira e sou Desenvolvedor Frontend.
+Meu nome é Jeferson Teixeira e tenho 31 anos. Possuo formação em Técnico em Eletrônica, onde adquiri amplo conhecimento nessa área com mais de 12 anos de carreira. Atualmente, estou graduando em Análise e Desenvolvimento de Sistema, visto que, busco uma colocação profissional na área de desenvolvimento Front-End. 
 
 - ✅ HTML / CSS 
 - 📕 Estudando Clean Code e Javascript
