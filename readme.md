@@ -1,5 +1,5 @@
 
-# Jeferson Teixeira 
+# Jeferson Nunes
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jeferson-nt)](https://github.com/jeferson-nt)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-nt/)](https://www.linkedin.com/in/jeferson-nt/)
@@ -7,7 +7,7 @@
 
 ### Olá! Bem vindo ao meu Github
 
-Meu nome é Jeferson Teixeira e tenho 31 anos. Possuo formação em Técnico em Eletrônica, onde adquiri amplo conhecimento nessa área com mais de 12 anos de carreira. Atualmente, estou graduando em Análise e Desenvolvimento de Sistema, visto que, busco uma colocação profissional na área de desenvolvimento Front-End. 
+Meu nome é Jeferson Nunes e tenho 31 anos. Possuo formação em Técnico em Eletrônica, onde adquiri amplo conhecimento nessa área com mais de 12 anos de carreira. Atualmente, estou graduando em Análise e Desenvolvimento de Sistema, visto que, busco uma colocação profissional na área de desenvolvimento Front-End. 
 
 - ✅ HTML / CSS 
 - 📕 Estudando Clean Code e Javascript
