@@ -7,7 +7,7 @@
 
 ### Olá! Bem vindo ao meu Github
 
-Meu nome é Jeferson Nunes e tenho 31 anos. Possuo formação em Técnico em Eletrônica, onde adquiri amplo conhecimento nessa área com mais de 12 anos de carreira. Atualmente, estou graduando em Análise e Desenvolvimento de Sistema, visto que, busco uma colocação profissional na área de desenvolvimento Front-End. 
+Meu nome é Jeferson Nunes e tenho 32 anos. Possuo formação em Técnico em Eletrônica, onde adquiri amplo conhecimento nessa área com mais de 12 anos de carreira. Atualmente, estou graduando em Análise e Desenvolvimento de Sistema, visto que, busco uma colocação profissional na área de desenvolvimento Front-End. 
 
 - ✅ HTML / CSS 
 - 📕 Estudando Clean Code e Javascript
